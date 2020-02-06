@@ -1,0 +1,122 @@
+Serial connection stable
+Sd card connection stable
+
+Determing Baseline Barometric Pressure
+
+101.81
+101.81
+101.80
+101.80
+101.81
+101.80
+101.81
+101.80
+101.81
+101.80
+
+
+Baseline Barometric Pressure: 1018.05
+
+
+
+Determining Baseline Altitude
+
+0.49
+0.10
+0.23
+0.20
+
+Baseline Alt: 0.11
+Baseline Temp: 83.34
+
+Serial connection stable
+Sd card connection stable
+
+Determing Baseline Barometric Pressure
+
+101.81
+101.80
+101.80
+101.81
+101.80
+101.81
+101.81
+101.80
+101.80
+101.81
+
+
+Baseline Barometric Pressure: 1018.05
+
+
+
+Determining Baseline Altitude
+
+0.31
+-0.09
+0.19
+0.22
+
+Baseline Alt: 0.07
+Baseline Temp: 83.57
+
+Serial connection stable
+Sd card connection stable
+
+Determing Baseline Barometric Pressure
+
+101.80
+101.80
+101.80
+101.81
+101.81
+101.80
+101.80
+101.78
+101.77
+101.75
+
+
+Baseline Barometric Pressure: 1017.93
+
+
+
+Determining Baseline Altitude
+
+10.72
+13.91
+15.95
+18.17
+
+Baseline Alt: 6.53
+Baseline Temp: 83.51
+
+LaunchPad
+
+		Relative Alt: 0.00
+
+
+17.57
+17.55
+17.56
+17.68
+17.81
+18.07
+18.03
+18.42
+18.17
+18.56
+
+
+Flight Altitude
+
+
+
+Apogee: 44.02
+
+
+Temp at Apogee: 83.85
+
+
+Returning for Landing
+

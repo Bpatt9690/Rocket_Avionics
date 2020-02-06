@@ -1,0 +1,2451 @@
+Data:
+
+10 minute ground test to check LPA filter
+
+LPA filter set at .40/.60
+
+
+
+
+
+Serial connection stable
+Sd card connection stable
+
+Determing Baseline Barometric Pressure
+
+102.04
+102.04
+102.03
+102.03
+102.04
+102.04
+102.04
+102.04
+102.04
+102.04
+
+
+Baseline Barometric Pressure: 1020.38
+
+
+
+Determining Baseline Altitude
+
+-0.12
+0.36
+0.31
+0.47
+0.29
+0.27
+0.21
+0.21
+0.10
+
+Baseline Alt: 0.23
+Baseline Temp: 90.25
+
+LaunchPad
+
+Correction : -0.23
+
+
+Relative Alt: 0.29
+Relative Filtered Alt: 0.07
+
+
+Relative Alt: 0.25
+Relative Filtered Alt: 0.04
+
+
+Relative Alt: -0.24
+Relative Filtered Alt: -0.27
+
+
+Relative Alt: -0.04
+Relative Filtered Alt: -0.27
+
+
+Relative Alt: -0.10
+Relative Filtered Alt: -0.31
+
+
+Relative Alt: -0.10
+Relative Filtered Alt: -0.32
+
+
+Relative Alt: 0.22
+Relative Filtered Alt: -0.14
+
+
+Relative Alt: 0.42
+Relative Filtered Alt: 0.06
+
+
+Relative Alt: -0.02
+Relative Filtered Alt: -0.13
+
+
+Relative Alt: -0.11
+Relative Filtered Alt: -0.26
+
+
+Relative Alt: 0.30
+Relative Filtered Alt: -0.06
+
+
+Relative Alt: 0.74
+Relative Filtered Alt: 0.28
+
+
+Relative Alt: 0.36
+Relative Filtered Alt: 0.19
+
+
+Relative Alt: 0.14
+Relative Filtered Alt: 0.02
+
+
+Relative Alt: -0.10
+Relative Filtered Alt: -0.19
+
+
+Relative Alt: 0.33
+Relative Filtered Alt: -0.02
+
+
+Relative Alt: -0.25
+Relative Filtered Alt: -0.30
+
+
+Relative Alt: 0.17
+Relative Filtered Alt: -0.16
+
+
+Relative Alt: 0.42
+Relative Filtered Alt: 0.05
+
+
+Relative Alt: 0.02
+Relative Filtered Alt: -0.11
+
+
+Relative Alt: 0.08
+Relative Filtered Alt: -0.13
+
+
+Relative Alt: 0.32
+Relative Filtered Alt: -0.00
+
+
+Relative Alt: 0.22
+Relative Filtered Alt: -0.01
+
+
+Relative Alt: 0.07
+Relative Filtered Alt: -0.10
+
+
+Relative Alt: -0.02
+Relative Filtered Alt: -0.19
+
+
+Relative Alt: 0.32
+Relative Filtered Alt: -0.02
+
+
+Relative Alt: -0.05
+Relative Filtered Alt: -0.18
+
+
+Relative Alt: 0.05
+Relative Filtered Alt: -0.18
+
+
+Relative Alt: 0.44
+Relative Filtered Alt: 0.05
+
+
+Relative Alt: -0.03
+Relative Filtered Alt: -0.14
+
+
+Relative Alt: 0.22
+Relative Filtered Alt: -0.06
+
+
+Relative Alt: 0.43
+Relative Filtered Alt: 0.09
+
+
+Relative Alt: 0.18
+Relative Filtered Alt: 0.00
+
+
+Relative Alt: 0.39
+Relative Filtered Alt: 0.09
+
+
+Relative Alt: -0.08
+Relative Filtered Alt: -0.15
+
+
+Relative Alt: 0.21
+Relative Filtered Alt: -0.08
+
+
+Relative Alt: 0.11
+Relative Filtered Alt: -0.11
+
+
+Relative Alt: 0.09
+Relative Filtered Alt: -0.13
+
+
+Relative Alt: 0.27
+Relative Filtered Alt: -0.03
+
+
+Relative Alt: -0.10
+Relative Filtered Alt: -0.21
+
+
+Relative Alt: 0.28
+Relative Filtered Alt: -0.06
+
+
+Relative Alt: -0.04
+Relative Filtered Alt: -0.19
+
+
+Relative Alt: 0.24
+Relative Filtered Alt: -0.07
+
+
+Relative Alt: -0.39
+Relative Filtered Alt: -0.40
+
+
+Relative Alt: 0.47
+Relative Filtered Alt: -0.02
+
+
+Relative Alt: 0.12
+Relative Filtered Alt: -0.08
+
+
+Relative Alt: 0.03
+Relative Filtered Alt: -0.16
+
+
+Relative Alt: 0.09
+Relative Filtered Alt: -0.15
+
+
+Relative Alt: 0.32
+Relative Filtered Alt: -0.01
+
+
+Relative Alt: 0.64
+Relative Filtered Alt: 0.24
+
+
+Relative Alt: 0.32
+Relative Filtered Alt: 0.15
+
+
+Relative Alt: 0.53
+Relative Filtered Alt: 0.24
+
+
+Relative Alt: 0.47
+Relative Filtered Alt: 0.24
+
+
+Relative Alt: 0.70
+Relative Filtered Alt: 0.37
+
+
+Relative Alt: 0.46
+Relative Filtered Alt: 0.29
+
+
+Relative Alt: 0.59
+Relative Filtered Alt: 0.33
+
+
+Relative Alt: 0.25
+Relative Filtered Alt: 0.14
+
+
+Relative Alt: 0.15
+Relative Filtered Alt: 0.01
+
+
+Relative Alt: 0.31
+Relative Filtered Alt: 0.05
+
+
+Relative Alt: 0.59
+Relative Filtered Alt: 0.23
+
+
+Relative Alt: 0.38
+Relative Filtered Alt: 0.18
+
+
+Relative Alt: 0.65
+Relative Filtered Alt: 0.32
+
+
+Relative Alt: 0.66
+Relative Filtered Alt: 0.38
+
+
+Relative Alt: 0.59
+Relative Filtered Alt: 0.36
+
+
+Relative Alt: 0.44
+Relative Filtered Alt: 0.27
+
+
+Relative Alt: 0.12
+Relative Filtered Alt: 0.04
+
+
+Relative Alt: 0.32
+Relative Filtered Alt: 0.07
+
+
+Relative Alt: 0.52
+Relative Filtered Alt: 0.20
+
+
+Relative Alt: 0.59
+Relative Filtered Alt: 0.29
+
+
+Relative Alt: 0.43
+Relative Filtered Alt: 0.23
+
+
+Relative Alt: 0.28
+Relative Filtered Alt: 0.12
+
+
+Relative Alt: 0.29
+Relative Filtered Alt: 0.08
+
+
+Relative Alt: 0.48
+Relative Filtered Alt: 0.18
+
+
+Relative Alt: 0.54
+Relative Filtered Alt: 0.26
+
+
+Relative Alt: 0.36
+Relative Filtered Alt: 0.18
+
+
+Relative Alt: 0.18
+Relative Filtered Alt: 0.04
+
+
+Relative Alt: 0.29
+Relative Filtered Alt: 0.05
+
+
+Relative Alt: 0.16
+Relative Filtered Alt: -0.02
+
+
+Relative Alt: 0.76
+Relative Filtered Alt: 0.30
+
+
+Relative Alt: 0.16
+Relative Filtered Alt: 0.08
+
+
+Relative Alt: 0.40
+Relative Filtered Alt: 0.13
+
+
+Relative Alt: 0.26
+Relative Filtered Alt: 0.07
+
+
+Relative Alt: 0.35
+Relative Filtered Alt: 0.10
+
+
+Relative Alt: -0.21
+Relative Filtered Alt: -0.23
+
+
+Relative Alt: 0.10
+Relative Filtered Alt: -0.17
+
+
+Relative Alt: 0.20
+Relative Filtered Alt: -0.09
+
+
+Relative Alt: -0.02
+Relative Filtered Alt: -0.18
+
+
+Relative Alt: 0.05
+Relative Filtered Alt: -0.18
+
+
+Relative Alt: 0.36
+Relative Filtered Alt: 0.00
+
+
+Relative Alt: 0.18
+Relative Filtered Alt: -0.03
+
+
+Relative Alt: -0.12
+Relative Filtered Alt: -0.22
+
+
+Relative Alt: -0.24
+Relative Filtered Alt: -0.37
+
+
+Relative Alt: -0.16
+Relative Filtered Alt: -0.38
+
+
+Relative Alt: -0.31
+Relative Filtered Alt: -0.48
+
+
+Relative Alt: 0.33
+Relative Filtered Alt: -0.13
+
+
+Relative Alt: 0.69
+Relative Filtered Alt: 0.22
+
+
+Relative Alt: 0.17
+Relative Filtered Alt: 0.05
+
+
+Relative Alt: -0.06
+Relative Filtered Alt: -0.16
+
+
+Relative Alt: 0.26
+Relative Filtered Alt: -0.05
+
+
+Relative Alt: 0.25
+Relative Filtered Alt: -0.01
+
+
+Relative Alt: 0.06
+Relative Filtered Alt: -0.11
+
+
+Relative Alt: 0.40
+Relative Filtered Alt: 0.05
+
+
+Relative Alt: 0.18
+Relative Filtered Alt: -0.01
+
+
+Relative Alt: 0.22
+Relative Filtered Alt: -0.01
+
+
+Relative Alt: 0.54
+Relative Filtered Alt: 0.18
+
+
+Relative Alt: 0.60
+Relative Filtered Alt: 0.29
+
+
+Relative Alt: 0.38
+Relative Filtered Alt: 0.20
+
+
+Relative Alt: 0.73
+Relative Filtered Alt: 0.38
+
+
+Relative Alt: 0.51
+Relative Filtered Alt: 0.32
+
+
+Relative Alt: 0.93
+Relative Filtered Alt: 0.54
+
+
+Relative Alt: 0.63
+Relative Filtered Alt: 0.45
+
+
+Relative Alt: -0.02
+Relative Filtered Alt: 0.03
+
+
+Relative Alt: 0.12
+Relative Filtered Alt: -0.06
+
+
+Relative Alt: 0.71
+Relative Filtered Alt: 0.26
+
+
+Relative Alt: 0.03
+Relative Filtered Alt: -0.01
+
+
+Relative Alt: 0.84
+Relative Filtered Alt: 0.36
+
+
+Relative Alt: 0.27
+Relative Filtered Alt: 0.17
+
+
+Relative Alt: 0.62
+Relative Filtered Alt: 0.30
+
+
+Relative Alt: 0.18
+Relative Filtered Alt: 0.09
+
+
+Relative Alt: 0.77
+Relative Filtered Alt: 0.36
+
+
+Relative Alt: 0.37
+Relative Filtered Alt: 0.22
+
+
+Relative Alt: 0.32
+Relative Filtered Alt: 0.14
+
+
+Relative Alt: 0.23
+Relative Filtered Alt: 0.05
+
+
+Relative Alt: 0.16
+Relative Filtered Alt: -0.02
+
+
+Relative Alt: 0.53
+Relative Filtered Alt: 0.17
+
+
+Relative Alt: 0.32
+Relative Filtered Alt: 0.12
+
+
+Relative Alt: 0.22
+Relative Filtered Alt: 0.04
+
+
+Relative Alt: 0.15
+Relative Filtered Alt: -0.03
+
+
+Relative Alt: 0.75
+Relative Filtered Alt: 0.30
+
+
+Relative Alt: 0.17
+Relative Filtered Alt: 0.08
+
+
+Relative Alt: 0.68
+Relative Filtered Alt: 0.30
+
+
+Relative Alt: 0.55
+Relative Filtered Alt: 0.31
+
+
+Relative Alt: 0.32
+Relative Filtered Alt: 0.17
+
+
+Relative Alt: 0.46
+Relative Filtered Alt: 0.20
+
+
+Relative Alt: 0.64
+Relative Filtered Alt: 0.33
+
+
+Relative Alt: 0.16
+Relative Filtered Alt: 0.09
+
+
+Relative Alt: 0.63
+Relative Filtered Alt: 0.27
+
+
+Relative Alt: 0.61
+Relative Filtered Alt: 0.33
+
+
+Relative Alt: 0.58
+Relative Filtered Alt: 0.34
+
+
+Relative Alt: 0.42
+Relative Filtered Alt: 0.25
+
+
+Relative Alt: 0.50
+Relative Filtered Alt: 0.26
+
+
+Relative Alt: 1.04
+Relative Filtered Alt: 0.59
+
+
+Relative Alt: 0.62
+Relative Filtered Alt: 0.47
+
+
+Relative Alt: 0.72
+Relative Filtered Alt: 0.48
+
+
+Relative Alt: 0.84
+Relative Filtered Alt: 0.55
+
+
+Relative Alt: 0.60
+Relative Filtered Alt: 0.44
+
+
+Relative Alt: 1.00
+Relative Filtered Alt: 0.64
+
+
+Relative Alt: 0.55
+Relative Filtered Alt: 0.44
+
+
+Relative Alt: 0.28
+Relative Filtered Alt: 0.21
+
+
+Relative Alt: 0.63
+Relative Filtered Alt: 0.32
+
+
+Relative Alt: 0.54
+Relative Filtered Alt: 0.31
+
+
+Relative Alt: 0.97
+Relative Filtered Alt: 0.57
+
+
+Relative Alt: 0.92
+Relative Filtered Alt: 0.64
+
+
+Relative Alt: 0.52
+Relative Filtered Alt: 0.43
+
+
+Relative Alt: 0.52
+Relative Filtered Alt: 0.34
+
+
+Relative Alt: 0.99
+Relative Filtered Alt: 0.59
+
+
+Relative Alt: 0.83
+Relative Filtered Alt: 0.59
+
+
+Relative Alt: 0.43
+Relative Filtered Alt: 0.35
+
+
+Relative Alt: 0.59
+Relative Filtered Alt: 0.36
+
+
+Relative Alt: 0.57
+Relative Filtered Alt: 0.35
+
+
+Relative Alt: 1.00
+Relative Filtered Alt: 0.60
+
+
+Relative Alt: 0.95
+Relative Filtered Alt: 0.67
+
+
+Relative Alt: 0.87
+Relative Filtered Alt: 0.65
+
+
+Relative Alt: 1.22
+Relative Filtered Alt: 0.85
+
+
+Relative Alt: 0.70
+Relative Filtered Alt: 0.62
+
+
+Relative Alt: 0.76
+Relative Filtered Alt: 0.57
+
+
+Relative Alt: 0.46
+Relative Filtered Alt: 0.36
+
+
+Relative Alt: 1.14
+Relative Filtered Alt: 0.69
+
+
+Relative Alt: 1.17
+Relative Filtered Alt: 0.84
+
+
+Relative Alt: 0.73
+Relative Filtered Alt: 0.63
+
+
+Relative Alt: 0.79
+Relative Filtered Alt: 0.59
+
+
+Relative Alt: 1.05
+Relative Filtered Alt: 0.72
+
+
+Relative Alt: 1.08
+Relative Filtered Alt: 0.80
+
+
+Relative Alt: 0.62
+Relative Filtered Alt: 0.55
+
+
+Relative Alt: 0.68
+Relative Filtered Alt: 0.49
+
+
+Relative Alt: 1.09
+Relative Filtered Alt: 0.71
+
+
+Relative Alt: 0.77
+Relative Filtered Alt: 0.61
+
+
+Relative Alt: 1.01
+Relative Filtered Alt: 0.71
+
+
+Relative Alt: 1.34
+Relative Filtered Alt: 0.94
+
+
+Relative Alt: 0.81
+Relative Filtered Alt: 0.73
+
+
+Relative Alt: 1.32
+Relative Filtered Alt: 0.94
+
+
+Relative Alt: 0.84
+Relative Filtered Alt: 0.74
+
+
+Relative Alt: 1.39
+Relative Filtered Alt: 0.99
+
+
+Relative Alt: 1.24
+Relative Filtered Alt: 1.00
+
+
+Relative Alt: 0.72
+Relative Filtered Alt: 0.69
+
+
+Relative Alt: 1.31
+Relative Filtered Alt: 0.92
+
+
+Relative Alt: 1.52
+Relative Filtered Alt: 1.14
+
+
+Relative Alt: 1.50
+Relative Filtered Alt: 1.22
+
+
+Relative Alt: 1.56
+Relative Filtered Alt: 1.28
+
+
+Relative Alt: 1.58
+Relative Filtered Alt: 1.32
+
+
+Relative Alt: 0.69
+Relative Filtered Alt: 0.80
+
+
+Relative Alt: 1.04
+Relative Filtered Alt: 0.81
+
+
+Relative Alt: 1.17
+Relative Filtered Alt: 0.88
+
+
+Relative Alt: 1.36
+Relative Filtered Alt: 1.03
+
+
+Relative Alt: 1.38
+Relative Filtered Alt: 1.10
+
+
+Relative Alt: 1.68
+Relative Filtered Alt: 1.31
+
+
+Relative Alt: 1.83
+Relative Filtered Alt: 1.48
+
+
+Relative Alt: 1.83
+Relative Filtered Alt: 1.55
+
+
+Relative Alt: 1.39
+Relative Filtered Alt: 1.31
+
+
+Relative Alt: 1.65
+Relative Filtered Alt: 1.37
+
+
+Relative Alt: 1.19
+Relative Filtered Alt: 1.12
+
+
+Relative Alt: 1.47
+Relative Filtered Alt: 1.19
+
+
+Relative Alt: 2.06
+Relative Filtered Alt: 1.57
+
+
+Relative Alt: 1.80
+Relative Filtered Alt: 1.57
+
+
+Relative Alt: 2.13
+Relative Filtered Alt: 1.76
+
+
+Relative Alt: 2.56
+Relative Filtered Alt: 2.10
+
+
+Relative Alt: 2.36
+Relative Filtered Alt: 2.11
+
+
+Relative Alt: 1.71
+Relative Filtered Alt: 1.73
+
+
+Relative Alt: 2.44
+Relative Filtered Alt: 2.02
+
+
+Relative Alt: 2.34
+Relative Filtered Alt: 2.07
+
+
+Relative Alt: 2.48
+Relative Filtered Alt: 2.17
+
+
+Relative Alt: 2.62
+Relative Filtered Alt: 2.30
+
+
+Relative Alt: 2.09
+Relative Filtered Alt: 2.04
+
+
+Relative Alt: 2.21
+Relative Filtered Alt: 2.00
+
+
+Relative Alt: 2.78
+Relative Filtered Alt: 2.33
+
+
+Relative Alt: 2.37
+Relative Filtered Alt: 2.21
+
+
+Relative Alt: 2.73
+Relative Filtered Alt: 2.38
+
+
+Relative Alt: 2.59
+Relative Filtered Alt: 2.37
+
+
+Relative Alt: 2.21
+Relative Filtered Alt: 2.13
+
+
+Relative Alt: 2.21
+Relative Filtered Alt: 2.04
+
+
+Relative Alt: 2.50
+Relative Filtered Alt: 2.18
+
+
+Relative Alt: 2.38
+Relative Filtered Alt: 2.16
+
+
+Relative Alt: 2.25
+Relative Filtered Alt: 2.07
+
+
+Relative Alt: 2.12
+Relative Filtered Alt: 1.96
+
+
+Relative Alt: 2.50
+Relative Filtered Alt: 2.14
+
+
+Relative Alt: 3.20
+Relative Filtered Alt: 2.64
+
+
+Relative Alt: 2.68
+Relative Filtered Alt: 2.52
+
+
+Relative Alt: 2.76
+Relative Filtered Alt: 2.53
+
+
+Relative Alt: 2.49
+Relative Filtered Alt: 2.36
+
+
+Relative Alt: 2.79
+Relative Filtered Alt: 2.48
+
+
+Relative Alt: 2.33
+Relative Filtered Alt: 2.25
+
+
+Relative Alt: 2.83
+Relative Filtered Alt: 2.46
+
+
+Relative Alt: 2.91
+Relative Filtered Alt: 2.59
+
+
+Relative Alt: 2.61
+Relative Filtered Alt: 2.46
+
+
+Relative Alt: 2.63
+Relative Filtered Alt: 2.42
+
+
+Relative Alt: 2.76
+Relative Filtered Alt: 2.48
+
+
+Relative Alt: 2.42
+Relative Filtered Alt: 2.30
+
+
+Relative Alt: 2.61
+Relative Filtered Alt: 2.35
+
+
+Relative Alt: 2.80
+Relative Filtered Alt: 2.48
+
+
+Relative Alt: 3.00
+Relative Filtered Alt: 2.65
+
+
+Relative Alt: 2.88
+Relative Filtered Alt: 2.65
+
+
+Relative Alt: 2.90
+Relative Filtered Alt: 2.66
+
+
+Relative Alt: 2.47
+Relative Filtered Alt: 2.41
+
+
+Relative Alt: 2.97
+Relative Filtered Alt: 2.60
+
+
+Relative Alt: 3.06
+Relative Filtered Alt: 2.74
+
+
+Relative Alt: 2.72
+Relative Filtered Alt: 2.58
+
+
+Relative Alt: 2.51
+Relative Filtered Alt: 2.40
+
+
+Relative Alt: 2.56
+Relative Filtered Alt: 2.35
+
+
+Relative Alt: 2.35
+Relative Filtered Alt: 2.21
+
+
+Relative Alt: 2.30
+Relative Filtered Alt: 2.13
+
+
+Relative Alt: 2.84
+Relative Filtered Alt: 2.41
+
+
+Relative Alt: 2.82
+Relative Filtered Alt: 2.52
+
+
+Relative Alt: 2.58
+Relative Filtered Alt: 2.41
+
+
+Relative Alt: 2.19
+Relative Filtered Alt: 2.14
+
+
+Relative Alt: 2.46
+Relative Filtered Alt: 2.19
+
+
+Relative Alt: 2.75
+Relative Filtered Alt: 2.39
+
+
+Relative Alt: 2.54
+Relative Filtered Alt: 2.34
+
+
+Relative Alt: 2.77
+Relative Filtered Alt: 2.46
+
+
+Relative Alt: 2.63
+Relative Filtered Alt: 2.42
+
+
+Relative Alt: 2.77
+Relative Filtered Alt: 2.49
+
+
+Relative Alt: 2.61
+Relative Filtered Alt: 2.42
+
+
+Relative Alt: 2.58
+Relative Filtered Alt: 2.37
+
+
+Relative Alt: 2.79
+Relative Filtered Alt: 2.48
+
+
+Relative Alt: 3.25
+Relative Filtered Alt: 2.80
+
+
+Relative Alt: 3.41
+Relative Filtered Alt: 3.02
+
+
+Relative Alt: 2.76
+Relative Filtered Alt: 2.73
+
+
+Relative Alt: 3.02
+Relative Filtered Alt: 2.76
+
+
+Relative Alt: 3.11
+Relative Filtered Alt: 2.83
+
+
+Relative Alt: 3.22
+Relative Filtered Alt: 2.92
+
+
+Relative Alt: 2.77
+Relative Filtered Alt: 2.69
+
+
+Relative Alt: 2.43
+Relative Filtered Alt: 2.39
+
+
+Relative Alt: 3.12
+Relative Filtered Alt: 2.69
+
+
+Relative Alt: 2.96
+Relative Filtered Alt: 2.71
+
+
+Relative Alt: 2.68
+Relative Filtered Alt: 2.55
+
+
+Relative Alt: 2.64
+Relative Filtered Alt: 2.46
+
+
+Relative Alt: 3.06
+Relative Filtered Alt: 2.68
+
+
+Relative Alt: 2.54
+Relative Filtered Alt: 2.46
+
+
+Relative Alt: 3.17
+Relative Filtered Alt: 2.74
+
+
+Relative Alt: 2.90
+Relative Filtered Alt: 2.70
+
+
+Relative Alt: 2.74
+Relative Filtered Alt: 2.58
+
+
+Relative Alt: 3.14
+Relative Filtered Alt: 2.78
+
+
+Relative Alt: 3.29
+Relative Filtered Alt: 2.94
+
+
+Relative Alt: 2.71
+Relative Filtered Alt: 2.66
+
+
+Relative Alt: 2.94
+Relative Filtered Alt: 2.69
+
+
+Relative Alt: 2.82
+Relative Filtered Alt: 2.63
+
+
+Relative Alt: 2.83
+Relative Filtered Alt: 2.61
+
+
+Relative Alt: 3.21
+Relative Filtered Alt: 2.83
+
+
+Relative Alt: 2.76
+Relative Filtered Alt: 2.65
+
+
+Relative Alt: 2.95
+Relative Filtered Alt: 2.69
+
+
+Relative Alt: 2.70
+Relative Filtered Alt: 2.55
+
+
+Relative Alt: 3.12
+Relative Filtered Alt: 2.75
+
+
+Relative Alt: 3.20
+Relative Filtered Alt: 2.88
+
+
+Relative Alt: 2.88
+Relative Filtered Alt: 2.74
+
+
+Relative Alt: 2.94
+Relative Filtered Alt: 2.72
+
+
+Relative Alt: 2.87
+Relative Filtered Alt: 2.67
+
+
+Relative Alt: 2.78
+Relative Filtered Alt: 2.60
+
+
+Relative Alt: 2.77
+Relative Filtered Alt: 2.56
+
+
+Relative Alt: 3.01
+Relative Filtered Alt: 2.69
+
+
+Relative Alt: 3.01
+Relative Filtered Alt: 2.74
+
+
+Relative Alt: 2.93
+Relative Filtered Alt: 2.72
+
+
+Relative Alt: 2.96
+Relative Filtered Alt: 2.72
+
+
+Relative Alt: 2.89
+Relative Filtered Alt: 2.68
+
+
+Relative Alt: 3.13
+Relative Filtered Alt: 2.81
+
+
+Relative Alt: 2.79
+Relative Filtered Alt: 2.66
+
+
+Relative Alt: 2.53
+Relative Filtered Alt: 2.44
+
+
+Relative Alt: 2.33
+Relative Filtered Alt: 2.24
+
+
+Relative Alt: 3.08
+Relative Filtered Alt: 2.60
+
+
+Relative Alt: 2.85
+Relative Filtered Alt: 2.61
+
+
+Relative Alt: 2.90
+Relative Filtered Alt: 2.64
+
+
+Relative Alt: 3.05
+Relative Filtered Alt: 2.75
+
+
+Relative Alt: 2.94
+Relative Filtered Alt: 2.72
+
+
+Relative Alt: 2.91
+Relative Filtered Alt: 2.70
+
+
+Relative Alt: 3.18
+Relative Filtered Alt: 2.84
+
+
+Relative Alt: 2.95
+Relative Filtered Alt: 2.77
+
+
+Relative Alt: 2.91
+Relative Filtered Alt: 2.71
+
+
+Relative Alt: 2.47
+Relative Filtered Alt: 2.42
+
+
+Relative Alt: 2.72
+Relative Filtered Alt: 2.46
+
+
+Relative Alt: 3.15
+Relative Filtered Alt: 2.73
+
+
+Relative Alt: 2.95
+Relative Filtered Alt: 2.72
+
+
+Relative Alt: 2.85
+Relative Filtered Alt: 2.66
+
+
+Relative Alt: 2.89
+Relative Filtered Alt: 2.66
+
+
+Relative Alt: 3.24
+Relative Filtered Alt: 2.87
+
+
+Relative Alt: 2.86
+Relative Filtered Alt: 2.72
+
+
+Relative Alt: 3.14
+Relative Filtered Alt: 2.83
+
+
+Relative Alt: 3.23
+Relative Filtered Alt: 2.93
+
+
+Relative Alt: 2.77
+Relative Filtered Alt: 2.70
+
+
+Relative Alt: 3.20
+Relative Filtered Alt: 2.86
+
+
+Relative Alt: 2.80
+Relative Filtered Alt: 2.68
+
+
+Relative Alt: 3.01
+Relative Filtered Alt: 2.74
+
+
+Relative Alt: 3.14
+Relative Filtered Alt: 2.84
+
+
+Relative Alt: 2.87
+Relative Filtered Alt: 2.71
+
+
+Relative Alt: 2.75
+Relative Filtered Alt: 2.60
+
+
+Relative Alt: 2.72
+Relative Filtered Alt: 2.53
+
+
+Relative Alt: 3.02
+Relative Filtered Alt: 2.68
+
+
+Relative Alt: 2.94
+Relative Filtered Alt: 2.70
+
+
+Relative Alt: 3.11
+Relative Filtered Alt: 2.80
+
+
+Relative Alt: 2.58
+Relative Filtered Alt: 2.53
+
+
+Relative Alt: 2.79
+Relative Filtered Alt: 2.54
+
+
+Relative Alt: 2.87
+Relative Filtered Alt: 2.60
+
+
+Relative Alt: 3.11
+Relative Filtered Alt: 2.76
+
+
+Relative Alt: 3.05
+Relative Filtered Alt: 2.80
+
+
+Relative Alt: 3.54
+Relative Filtered Alt: 3.10
+
+
+Relative Alt: 2.94
+Relative Filtered Alt: 2.87
+
+
+Relative Alt: 3.36
+Relative Filtered Alt: 3.02
+
+
+Relative Alt: 2.87
+Relative Filtered Alt: 2.79
+
+
+Relative Alt: 2.70
+Relative Filtered Alt: 2.60
+
+
+Relative Alt: 3.25
+Relative Filtered Alt: 2.85
+
+
+Relative Alt: 3.37
+Relative Filtered Alt: 3.02
+
+
+Relative Alt: 3.46
+Relative Filtered Alt: 3.15
+
+
+Relative Alt: 3.46
+Relative Filtered Alt: 3.19
+
+
+Relative Alt: 2.98
+Relative Filtered Alt: 2.93
+
+
+Relative Alt: 3.05
+Relative Filtered Alt: 2.86
+
+
+Relative Alt: 3.37
+Relative Filtered Alt: 3.03
+
+
+Relative Alt: 2.73
+Relative Filtered Alt: 2.71
+
+
+Relative Alt: 2.71
+Relative Filtered Alt: 2.57
+
+
+Relative Alt: 3.20
+Relative Filtered Alt: 2.81
+
+
+Relative Alt: 3.20
+Relative Filtered Alt: 2.90
+
+
+Relative Alt: 2.97
+Relative Filtered Alt: 2.80
+
+
+Relative Alt: 3.14
+Relative Filtered Alt: 2.86
+
+
+Relative Alt: 3.10
+Relative Filtered Alt: 2.86
+
+
+Relative Alt: 3.26
+Relative Filtered Alt: 2.96
+
+
+Relative Alt: 2.96
+Relative Filtered Alt: 2.82
+
+
+Relative Alt: 3.01
+Relative Filtered Alt: 2.80
+
+
+Relative Alt: 3.15
+Relative Filtered Alt: 2.87
+
+
+Relative Alt: 3.43
+Relative Filtered Alt: 3.07
+
+
+Relative Alt: 3.43
+Relative Filtered Alt: 3.14
+
+
+Relative Alt: 3.15
+Relative Filtered Alt: 3.01
+
+
+Relative Alt: 3.34
+Relative Filtered Alt: 3.07
+
+
+Relative Alt: 3.17
+Relative Filtered Alt: 2.99
+
+
+Relative Alt: 3.00
+Relative Filtered Alt: 2.85
+
+
+Relative Alt: 3.04
+Relative Filtered Alt: 2.82
+
+
+Relative Alt: 2.75
+Relative Filtered Alt: 2.64
+
+
+Relative Alt: 2.90
+Relative Filtered Alt: 2.65
+
+
+Relative Alt: 3.08
+Relative Filtered Alt: 2.77
+
+
+Relative Alt: 2.87
+Relative Filtered Alt: 2.69
+
+
+Relative Alt: 2.64
+Relative Filtered Alt: 2.52
+
+
+Relative Alt: 2.87
+Relative Filtered Alt: 2.59
+
+
+Relative Alt: 2.94
+Relative Filtered Alt: 2.66
+
+
+Relative Alt: 3.20
+Relative Filtered Alt: 2.84
+
+
+Relative Alt: 3.12
+Relative Filtered Alt: 2.87
+
+
+Relative Alt: 2.88
+Relative Filtered Alt: 2.74
+
+
+Relative Alt: 3.05
+Relative Filtered Alt: 2.78
+
+
+Relative Alt: 3.20
+Relative Filtered Alt: 2.89
+
+
+Relative Alt: 3.79
+Relative Filtered Alt: 3.29
+
+
+Relative Alt: 3.16
+Relative Filtered Alt: 3.07
+
+
+Relative Alt: 2.85
+Relative Filtered Alt: 2.80
+
+
+Relative Alt: 3.13
+Relative Filtered Alt: 2.85
+
+
+Relative Alt: 3.10
+Relative Filtered Alt: 2.86
+
+
+Relative Alt: 2.81
+Relative Filtered Alt: 2.69
+
+
+Relative Alt: 3.25
+Relative Filtered Alt: 2.88
+
+
+Relative Alt: 3.47
+Relative Filtered Alt: 3.10
+
+
+Relative Alt: 3.25
+Relative Filtered Alt: 3.05
+
+
+Relative Alt: 2.97
+Relative Filtered Alt: 2.86
+
+
+Relative Alt: 3.16
+Relative Filtered Alt: 2.90
+
+
+Relative Alt: 3.63
+Relative Filtered Alt: 3.19
+
+
+Relative Alt: 3.48
+Relative Filtered Alt: 3.22
+
+
+Relative Alt: 3.33
+Relative Filtered Alt: 3.15
+
+
+Relative Alt: 3.39
+Relative Filtered Alt: 3.15
+
+
+Relative Alt: 3.23
+Relative Filtered Alt: 3.06
+
+
+Relative Alt: 2.54
+Relative Filtered Alt: 2.61
+
+
+Relative Alt: 3.22
+Relative Filtered Alt: 2.83
+
+
+Relative Alt: 3.35
+Relative Filtered Alt: 3.00
+
+
+Relative Alt: 3.50
+Relative Filtered Alt: 3.16
+
+
+Relative Alt: 3.18
+Relative Filtered Alt: 3.03
+
+
+Relative Alt: 2.88
+Relative Filtered Alt: 2.80
+
+
+Relative Alt: 2.91
+Relative Filtered Alt: 2.73
+
+
+Relative Alt: 2.69
+Relative Filtered Alt: 2.57
+
+
+Relative Alt: 2.42
+Relative Filtered Alt: 2.33
+
+
+Relative Alt: 2.37
+Relative Filtered Alt: 2.22
+
+
+Relative Alt: 2.52
+Relative Filtered Alt: 2.26
+
+
+Relative Alt: 2.44
+Relative Filtered Alt: 2.22
+
+
+Relative Alt: 2.16
+Relative Filtered Alt: 2.04
+
+
+Relative Alt: 1.69
+Relative Filtered Alt: 1.69
+
+
+Relative Alt: 1.95
+Relative Filtered Alt: 1.70
+
+
+Relative Alt: 1.37
+Relative Filtered Alt: 1.36
+
+
+Relative Alt: 1.40
+Relative Filtered Alt: 1.25
+
+
+Relative Alt: 1.29
+Relative Filtered Alt: 1.13
+
+
+Relative Alt: 1.51
+Relative Filtered Alt: 1.22
+
+
+Relative Alt: 0.98
+Relative Filtered Alt: 0.94
+
+
+Relative Alt: 1.15
+Relative Filtered Alt: 0.93
+
+
+Relative Alt: 1.26
+Relative Filtered Alt: 0.99
+
+
+Relative Alt: 1.31
+Relative Filtered Alt: 1.04
+
+
+Relative Alt: 1.05
+Relative Filtered Alt: 0.90
+
+
+Relative Alt: 1.45
+Relative Filtered Alt: 1.09
+
+
+Relative Alt: 1.68
+Relative Filtered Alt: 1.31
+
+
+Relative Alt: 1.29
+Relative Filtered Alt: 1.15
+
+
+Relative Alt: 1.20
+Relative Filtered Alt: 1.04
+
+
+Relative Alt: 1.11
+Relative Filtered Alt: 0.94
+
+
+Relative Alt: 1.05
+Relative Filtered Alt: 0.86
+
+
+Relative Alt: 1.21
+Relative Filtered Alt: 0.93
+
+
+Relative Alt: 1.01
+Relative Filtered Alt: 0.84
+
+
+Relative Alt: 0.99
+Relative Filtered Alt: 0.79
+
+
+Relative Alt: 1.05
+Relative Filtered Alt: 0.81
+
+
+Relative Alt: 1.16
+Relative Filtered Alt: 0.88
+
+
+Relative Alt: 1.41
+Relative Filtered Alt: 1.06
+
+
+Relative Alt: 1.43
+Relative Filtered Alt: 1.14
+
+
+Relative Alt: 1.21
+Relative Filtered Alt: 1.04
+
+
+Relative Alt: 1.32
+Relative Filtered Alt: 1.07
+
+
+Relative Alt: 1.21
+Relative Filtered Alt: 1.01
+
+
+Relative Alt: 1.12
+Relative Filtered Alt: 0.93
+
+
+Relative Alt: 1.29
+Relative Filtered Alt: 1.01
+
+
+Relative Alt: 0.98
+Relative Filtered Alt: 0.85
+
+
+Relative Alt: 1.22
+Relative Filtered Alt: 0.93
+
+
+Relative Alt: 1.07
+Relative Filtered Alt: 0.87
+
+
+Relative Alt: 1.57
+Relative Filtered Alt: 1.15
+
+
+Relative Alt: 1.11
+Relative Filtered Alt: 0.98
+
+
+Relative Alt: 1.41
+Relative Filtered Alt: 1.10
+
+
+Relative Alt: 0.94
+Relative Filtered Alt: 0.86
+
+
+Relative Alt: 1.12
+Relative Filtered Alt: 0.87
+
+
+Relative Alt: 1.60
+Relative Filtered Alt: 1.17
+
+
+Relative Alt: 1.38
+Relative Filtered Alt: 1.16
+
+
+Relative Alt: 1.27
+Relative Filtered Alt: 1.09
+
+
+Relative Alt: 1.27
+Relative Filtered Alt: 1.06
+
+
+Relative Alt: 0.82
+Relative Filtered Alt: 0.77
+
+
+Relative Alt: 1.14
+Relative Filtered Alt: 0.85
+
+
+Relative Alt: 1.21
+Relative Filtered Alt: 0.93
+
+
+Relative Alt: 1.09
+Relative Filtered Alt: 0.88
+
+
+Relative Alt: 0.64
+Relative Filtered Alt: 0.60
+
+
+Relative Alt: 1.17
+Relative Filtered Alt: 0.80
+
+
+Relative Alt: 0.96
+Relative Filtered Alt: 0.76
+
+
+Relative Alt: 1.09
+Relative Filtered Alt: 0.82
+
+
+Relative Alt: 0.95
+Relative Filtered Alt: 0.76
+
+
+Relative Alt: 0.90
+Relative Filtered Alt: 0.70
+
+
+Relative Alt: 1.88
+Relative Filtered Alt: 1.27
+
+
+Relative Alt: 1.47
+Relative Filtered Alt: 1.25
+
+
+Relative Alt: 1.34
+Relative Filtered Alt: 1.16
+
+
+Relative Alt: 1.48
+Relative Filtered Alt: 1.21
+
+
+Relative Alt: 1.29
+Relative Filtered Alt: 1.12
+
+
+Relative Alt: 1.21
+Relative Filtered Alt: 1.03
+
+
+Relative Alt: 1.07
+Relative Filtered Alt: 0.92
+
+
+Relative Alt: 1.23
+Relative Filtered Alt: 0.96
+
+
+Relative Alt: 1.24
+Relative Filtered Alt: 0.99
+
+
+Relative Alt: 0.98
+Relative Filtered Alt: 0.84
+
+
+Relative Alt: 1.31
+Relative Filtered Alt: 0.98
+
+
+Relative Alt: 0.64
+Relative Filtered Alt: 0.63
+
+
+Relative Alt: 1.27
+Relative Filtered Alt: 0.87
+
+
+Relative Alt: 1.14
+Relative Filtered Alt: 0.90
+
+
+Relative Alt: 1.23
+Relative Filtered Alt: 0.96
+
+
+Relative Alt: 0.69
+Relative Filtered Alt: 0.66
+
+
+Relative Alt: 1.17
+Relative Filtered Alt: 0.82
+
+
+Relative Alt: 1.04
+Relative Filtered Alt: 0.81
+
+
+Relative Alt: 0.85
+Relative Filtered Alt: 0.69
+
+
+Relative Alt: 1.10
+Relative Filtered Alt: 0.80
+
+
+Relative Alt: 1.17
+Relative Filtered Alt: 0.88
+
+
+Relative Alt: 1.63
+Relative Filtered Alt: 1.19
+
+
+Relative Alt: 1.01
+Relative Filtered Alt: 0.94
+
+
+Relative Alt: 1.58
+Relative Filtered Alt: 1.18
+
+
+Relative Alt: 1.70
+Relative Filtered Alt: 1.35
+
+
+Relative Alt: 1.15
+Relative Filtered Alt: 1.09
+
+
+Relative Alt: 1.52
+Relative Filtered Alt: 1.21
+
+
+Relative Alt: 1.53
+Relative Filtered Alt: 1.26
+
+
+Relative Alt: 1.98
+Relative Filtered Alt: 1.55
+
+
+Relative Alt: 2.05
+Relative Filtered Alt: 1.71
+
+
+Relative Alt: 2.01
+Relative Filtered Alt: 1.75
+
+
+Relative Alt: 2.44
+Relative Filtered Alt: 2.02
+
+
+Relative Alt: 2.63
+Relative Filtered Alt: 2.25
+
+
+Relative Alt: 2.54
+Relative Filtered Alt: 2.28
+
+
+Relative Alt: 3.14
+Relative Filtered Alt: 2.66
+
+
+Relative Alt: 2.97
+Relative Filtered Alt: 2.71
+
+
+Relative Alt: 3.17
+Relative Filtered Alt: 2.85
+
+
+Relative Alt: 3.25
+Relative Filtered Alt: 2.95
+
+
+Relative Alt: 2.60
+Relative Filtered Alt: 2.60
+
+
+Relative Alt: 2.60
+Relative Filtered Alt: 2.46
+
+
+Relative Alt: 3.13
+Relative Filtered Alt: 2.72
+
+
+Relative Alt: 2.60
+Relative Filtered Alt: 2.51
+
+
+Relative Alt: 2.83
+Relative Filtered Alt: 2.56
+
+
+Relative Alt: 3.14
+Relative Filtered Alt: 2.77
+
+
+Relative Alt: 2.78
+Relative Filtered Alt: 2.64
+
+
+Relative Alt: 3.11
+Relative Filtered Alt: 2.78
+
+
+Relative Alt: 2.89
+Relative Filtered Alt: 2.71
+
+
+Relative Alt: 2.72
+Relative Filtered Alt: 2.58
+
+
+Relative Alt: 3.03
+Relative Filtered Alt: 2.71
+
+
+Relative Alt: 3.16
+Relative Filtered Alt: 2.84
+
+
+Relative Alt: 3.33
+Relative Filtered Alt: 3.00
+
+
+Relative Alt: 2.99
+Relative Filtered Alt: 2.85
+
+
+Relative Alt: 2.19
+Relative Filtered Alt: 2.32
+
+
+Relative Alt: 2.44
+Relative Filtered Alt: 2.25
+
+
+Relative Alt: 2.63
+Relative Filtered Alt: 2.34
+
+
+Relative Alt: 2.72
+Relative Filtered Alt: 2.43
+
+
+Relative Alt: 2.69
+Relative Filtered Alt: 2.45
+
+
+Relative Alt: 2.58
+Relative Filtered Alt: 2.39
+
+
+Relative Alt: 2.21
+Relative Filtered Alt: 2.14
+
+
+Relative Alt: 2.35
+Relative Filtered Alt: 2.12
+
+
+Relative Alt: 2.82
+Relative Filtered Alt: 2.40
+
+
+Relative Alt: 3.15
+Relative Filtered Alt: 2.71
+
+
+Relative Alt: 3.03
+Relative Filtered Alt: 2.76
+
+
+Relative Alt: 2.74
+Relative Filtered Alt: 2.61
+
+
+Relative Alt: 3.20
+Relative Filtered Alt: 2.82
+
+
+Relative Alt: 3.14
+Relative Filtered Alt: 2.87
+
+
+Relative Alt: 3.22
+Relative Filtered Alt: 2.94
+
+
+Relative Alt: 3.37
+Relative Filtered Alt: 3.06
+
+
+Relative Alt: 3.23
+Relative Filtered Alt: 3.02
+
+
+Relative Alt: 3.16
+Relative Filtered Alt: 2.96
+
+
+Relative Alt: 3.91
+Relative Filtered Alt: 3.39
+
+
+Relative Alt: 3.12
+Relative Filtered Alt: 3.09
+
+
+Relative Alt: 2.92
+Relative Filtered Alt: 2.85
+
+
+Relative Alt: 2.86
+Relative Filtered Alt: 2.72
+
+
+Relative Alt: 2.73
+Relative Filtered Alt: 2.59
+
+
+Relative Alt: 3.08
+Relative Filtered Alt: 2.74
+
+
+Relative Alt: 2.34
+Relative Filtered Alt: 2.36
+
+
+Relative Alt: 2.68
+Relative Filtered Alt: 2.41
+
+
+Relative Alt: 2.43
+Relative Filtered Alt: 2.28
+
+
+Relative Alt: 2.43
+Relative Filtered Alt: 2.23
+
+
+Relative Alt: 2.46
+Relative Filtered Alt: 2.22
+
+
+Relative Alt: 2.58
+Relative Filtered Alt: 2.30
+
+
+Relative Alt: 2.29
+Relative Filtered Alt: 2.15
+
+
+Relative Alt: 2.41
+Relative Filtered Alt: 2.17
+
+
+Relative Alt: 2.12
+Relative Filtered Alt: 2.00
+
+
+Relative Alt: 2.50
+Relative Filtered Alt: 2.16
+
+
+Relative Alt: 2.58
+Relative Filtered Alt: 2.27
+
+
+Relative Alt: 2.70
+Relative Filtered Alt: 2.38
+
+
+Relative Alt: 2.76
+Relative Filtered Alt: 2.47
+
+
+Relative Alt: 2.51
+Relative Filtered Alt: 2.35
+
+
+Relative Alt: 2.16
+Relative Filtered Alt: 2.10
+
+
+Relative Alt: 3.09
+Relative Filtered Alt: 2.55
+
+
+Relative Alt: 2.39
+Relative Filtered Alt: 2.31
+
+
+Relative Alt: 2.76
+Relative Filtered Alt: 2.44
+
+
+Relative Alt: 2.95
+Relative Filtered Alt: 2.61
+
+
+Relative Alt: 2.17
+Relative Filtered Alt: 2.21
+
+
+Relative Alt: 2.46
+Relative Filtered Alt: 2.22
+
+
+Relative Alt: 2.47
+Relative Filtered Alt: 2.23
+
+
+Relative Alt: 2.62
+Relative Filtered Alt: 2.32
+
+
+Relative Alt: 2.64
+Relative Filtered Alt: 2.37
+
+
+Relative Alt: 2.70
+Relative Filtered Alt: 2.43
+
+
+Relative Alt: 2.62
+Relative Filtered Alt: 2.40
+
+
+Relative Alt: 2.12
+Relative Filtered Alt: 2.09
+
+
+Relative Alt: 2.20
+Relative Filtered Alt: 2.02
+
+
+Relative Alt: 1.97
+Relative Filtered Alt: 1.85
+
+
+Relative Alt: 2.56
+Relative Filtered Alt: 2.13
+
+
+Relative Alt: 3.18
+Relative Filtered Alt: 2.62
+
+
+Relative Alt: 2.66
+Relative Filtered Alt: 2.51
+
+
+Relative Alt: 2.25
+Relative Filtered Alt: 2.21
+
+
+Relative Alt: 1.92
+Relative Filtered Alt: 1.89
+
+
+Relative Alt: 1.98
+Relative Filtered Alt: 1.80
+
+
+Relative Alt: 1.43
+Relative Filtered Alt: 1.44
+
+
+Relative Alt: 1.72
+Relative Filtered Alt: 1.47
+
+
+Relative Alt: 1.69
+Relative Filtered Alt: 1.46
+
+
+Relative Alt: 1.85
+Relative Filtered Alt: 1.56
+
+
+Relative Alt: 1.48
+Relative Filtered Alt: 1.37
+
+
+Relative Alt: 2.07
+Relative Filtered Alt: 1.65
+
+
+Relative Alt: 1.95
+Relative Filtered Alt: 1.69
+
+
+Relative Alt: 1.47
+Relative Filtered Alt: 1.42
+
+
+Relative Alt: 2.03
+Relative Filtered Alt: 1.64
+
+
+Relative Alt: 2.34
+Relative Filtered Alt: 1.92
+
+
+Relative Alt: 2.32
+Relative Filtered Alt: 2.02
+
+
+Relative Alt: 2.75
+Relative Filtered Alt: 2.32
+
+
+Relative Alt: 3.74
+Relative Filtered Alt: 3.03
+
+
+Relative Alt: 3.46
+Relative Filtered Alt: 3.15
+
+
+Relative Alt: 3.32
+Relative Filtered Alt: 3.11
+
+
+Relative Alt: 3.40
+Relative Filtered Alt: 3.14
+
+
+Relative Alt: 3.37
+Relative Filtered Alt: 3.14
+
+
+Relative Alt: 3.09
+Relative Filtered Alt: 2.97
+
+
+Relative Alt: 3.71
+Relative Filtered Alt: 3.27
+
+
+Relative Alt: 3.25
+Relative Filtered Alt: 3.12
+
+
+Relative Alt: 3.19
+Relative Filtered Alt: 3.02
+
+
+Relative Alt: 3.43
+Relative Filtered Alt: 3.13
+
+
+Relative Alt: 3.19
+Relative Filtered Alt: 3.03
+
+
+Relative Alt: 3.56
+Relative Filtered Alt: 3.21
+
+
+Relative Alt: 3.50
+Relative Filtered Alt: 3.24
+
+
+Relative Alt: 3.29
+Relative Filtered Alt: 3.13
+
+
